@@ -29,7 +29,7 @@ public class Estimate_Create_Inventory extends SuperTestNG
 		}
 		catch (NoSuchElementException e)
 		{
-			Reporter.log("Aleready Logged in Continuing with Testing Process",true);
+			Reporter.log("Already Logged in Continuing with Testing Process",true);
 		}
 		
 		String xlpath = "./src/com/eprint/testData/Estimates/Inventory Data.xls";

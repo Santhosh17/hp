@@ -33,7 +33,6 @@ public class Estimate_Create_OtherCostsTimeBased extends SuperTestNG
 		
 		String xlpath = "./src/com/eprint/testData/Estimates/Large Format Linear.xls";
 		String sheetName = "Large Format Main";
-		
 		try
 		{
 			driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
@@ -150,4 +149,3 @@ public class Estimate_Create_OtherCostsTimeBased extends SuperTestNG
 //		ProjectLibrary.ClickOnButton("Save", Estimate_Add_OC_Add.EstimateSummary.btn_Save());
 	}
 }
-

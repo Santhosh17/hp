@@ -1,0 +1,60 @@
+Handling Excel Sheet in Java
+http://howtodoinjava.com/2013/06/19/readingwriting-excel-files-in-java-poi-tutorial/
+http://www.ontestautomation.com/data-driven-testing-in-selenium-webdriver-using-excel/
+http://functionaltestautomation.blogspot.in/2009/10/dataprovider-data-driven-testing-with.html
+http://code.google.com/p/selenium/source/browse/java/CHANGELOG - to check selenium webdriver version history
+
+http://www.tutorialspoint.com/testng/testng_parameterized_test.htm
+Drivers Download link
+http://chromedriver.storage.googleapis.com/index.html
+https://code.google.com/p/selenium/downloads/list
+
+http://www.wikihow.com/Start-a-Software-Company
+http://theautomationtester.wordpress.com/2014/02/19/getting-started-with-selenium-grid/
+
+http://www.sqaforums.com/showflat.php?Number=171275
+http://forum.softwaretestinghelp.com/index.php/topic,4301.msg4112.html#msg4112
+
+color code reference 
+http://euro-bags.eu/pantone?limit=60&p=1
+
+Sap 
+http://www.siliconindia.com/online-courses/tutorials/SAP-Testing-id-42.html
+
+https://addons.mozilla.org/en-US/firefox/addon/toggle-proxy-51740/?src=search
+
+{Search :chrome developer tools
+Links:
+http://discover-devtools.codeschool.com/}
+{Search :home wiring for 2000w iron box
+http://www.larsentoubro.com/lntcorporate/uploads/product/Wire_cables1.pdf}
+
+http://agilemethodology.org/
+http://www.softwaretestinghelp.com/atlassian-jira-tutorial-1/
+http://bonrouge.com/br.php?page=togglit
+
+http://selenium.polteq.com/en/category/page-object-model/
+http://wenzhixin.net.cn/p/multiple-select/
+http://eclipsesource.com/blogs/tutorials/egit-tutorial/
+http://en.wikipedia.org/wiki/File:Test_Automation_Interface.png
+http://www.dhtmlx.com/docs/products/dhtmlxTree/index.shtml
+http://www.methodsandtools.com/archive/archive.php?id=33
+http://elementalselenium.com/tips/23-dynamic-pages
+http://www.studyselenium.com/2013/11/database-connection-using-java-and.html
+http://seleniumforum.forumotion.net/
+http://seleniumtraining.in/
+http://selenium-tutorial.blogspot.in
+http://jbehave.org/reference/web/stable/page-objects.html
+http://www.jayphilips.com/2010/03/31/15-sections-that-should-be-in-a-testing-methodology/
+http://www.testingexcellence.com/what-types-of-documents-are-needed-for-software-testing/
+http://viralpatel.net/blogs/java-read-write-excel-file-apache-poi/
+http://www.abodeqa.com/tag/unable-to-handle-multiple-dropdown-selenium-webdriver/
+http://www.techopedia.com/2/29662/software/software-testing/why-do-we-need-user-acceptance-testing-uat
+http://css-tricks.com/app-from-scratch-1-design/
+http://bpo.knowledgehills.com/
+http://beginnersbook.com
+http://www.carnegiequality.com/testing/test-script-template/
+http://softwaretestingfundamentals.com/test-plan/
+http://www.testingexcellence.com/category/agile-testing-2/
+http://agiledevtest.blogspot.co.uk/2013/10/how-to-improve-agility-of-agile-team.html#more
+http://www.2createawebsite.com/

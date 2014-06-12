@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_85GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_100GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_150GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_200GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_250GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_300GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_350GSM_A3"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_A1_1000Bundle"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_A4_100Pack"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_A4_10inPack"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_A1_50inPack"/>
+      <class name="com.eprint.testcases.Inventory.Paper.Inv_Add_A2_50inPack"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
